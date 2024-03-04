@@ -18,3 +18,7 @@ test
 - Hashes
 - Signature
 - Intelligence
+
+### Interface
+*It has both a console and GUI version.*
+# PoC (Proof on concept)
