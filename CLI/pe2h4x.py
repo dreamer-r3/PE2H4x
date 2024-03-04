@@ -97,7 +97,7 @@ def get_mal_info(exe):
 
 if __name__ == "__main__":
     print("\nPE2H4x v1.0 Copyright <C> 2024-2025 0x1v4n")
-    print("Lasted Version and Source Code: enlace\n")
+    print("Lasted Version and Source Code: https://github.com/0x1v4n/PE2H4x\n")
     name, exe, imphash, image_base, RVA, EP, sections = get_info_pe()
     get_mal_info(imphash)
     input("\nPress Enter to exit...")
