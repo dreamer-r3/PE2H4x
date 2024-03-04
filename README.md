@@ -25,3 +25,7 @@ It is a tool that extracts data from the PE headers of an executable, calculates
 - *It has both a console and GUI version.*
 
 # PoC (Proof on concept)
+
+## CLI
+
+## GUI
