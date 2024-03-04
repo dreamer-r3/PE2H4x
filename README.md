@@ -30,3 +30,6 @@ It is a tool that extracts data from the PE headers of an executable, calculates
 ![image](https://github.com/0x1v4n/PE2H4x/assets/131263019/c94b5a3b-f4b6-44c1-95c1-8d4233e8476d)
 
 ## GUI
+![image](https://github.com/0x1v4n/PE2H4x/assets/131263019/87122c11-3679-48a1-b3cb-cdf7d73639f7)
+![image](https://github.com/0x1v4n/PE2H4x/assets/131263019/e5f5eeff-bb72-4010-a24f-0de222cd88ff)
+
