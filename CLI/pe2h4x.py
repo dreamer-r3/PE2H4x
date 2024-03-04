@@ -66,7 +66,7 @@ def get_info_pe():
             if entropy < 7:
                 print("Entropy:",entropy,yellow,"=> Seems not to be obfuscated\n",reset)
             elif entropy > 7:
-                print("Entropy:",entropy,red,"It seems to be obfuscated, try Detect it Easy(DIE), PEiD!\n",reset) 
+                print("Entropy:",entropy,red,"It seems to be obfuscated, try Detect it Easy(DIE) or PEiD!\n",reset) 
             else:
                 print("Error.")
         else:
