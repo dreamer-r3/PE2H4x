@@ -9,7 +9,7 @@ It is a tool that extracts data from the PE headers of an executable, calculates
 ### PE Info:
 - Imphash
 - Image Base
-- EP,VA
+- EP,RVA
 - Sections
 - Size of Raw Data
 - Entropy
