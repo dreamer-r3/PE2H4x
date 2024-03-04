@@ -1,5 +1,12 @@
 
-# PE3H4x
+_____________________________  ___ ___    _____         
+\______   \_   _____/\_____  \/   |   \  /  |  |___  ___
+ |     ___/|    __)_  /  ____/    ~    \/   |  |\  \/  /
+ |    |    |        \/       \    Y    /    ^   />    < 
+ |____|   /_______  /\_______ \___|_  /\____   |/__/\_ \
+                  \/         \/     \/      |__|      \/
+
+
 # Description
 It is a tool that extracts data from the PE headers of an executable, calculates if it is obfuscated by means of entropy, and once it obtains the data, it uses the imphash to search for information and to be able to see to which malware family it could belong as well as to extract also the signature, hashes, size, among others.+
 
