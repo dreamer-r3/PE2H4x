@@ -58,7 +58,7 @@ def get_info_pe():
         print("Imphash:",imphash)
         print("Image Base:",image_base)
         print("Entry point:",EP)
-        print("Virtual Address:",RVA) # Comprobar si calcula VA o RVA
+        print("Virtual Address:",RVA)
         print("Sections:",sections)
         print("Size of Raw Data:",hex(get_section_raw_size(exe,section_name)))
         entropy = get_entropy(exe)
