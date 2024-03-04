@@ -61,7 +61,7 @@ def get_info_pe():
     sections = hex(pe.FILE_HEADER.NumberOfSections)
     section_name = ".text"
     if imphash == None:
-        messagebox.showwarning("Warning", "The archive does not contain Immphash")
+        messagebox.showwarning("Warning", "The archive does not contain Imphash")
     else:
         entry_imphash.delete(0, tk.END)
         entry_imphash.insert(0, imphash)
