@@ -20,5 +20,6 @@ test
 - Intelligence
 
 ### Interface
-*It has both a console and GUI version.*
+- *It has both a console and GUI version.*
+
 # PoC (Proof on concept)
