@@ -52,7 +52,7 @@ def get_info_pe():
     sections = hex(pe.FILE_HEADER.NumberOfSections)
     section_name = ".text"
     if imphash == None:
-        print("The archive does not contain Immphash")
+        print("The archive does not contain Imphash")
     else:
         print("Name:",name)
         print("Imphash:",imphash)
@@ -70,7 +70,7 @@ def get_info_pe():
             else:
                 print("Error.")
         else:
-            print("No se pudo calcular la entropía.")
+            print("Entropy could not be calculated.")
 
     return exe,name,imphash,image_base,RVA,EP,sections
 
