@@ -22,6 +22,13 @@ It is a tool that extracts data from the PE headers of an executable, calculates
 - Signature
 - Intelligence
 
+# Usage
+
+```pythonn
+pip install requirements.txt
+python3 <program.py>
+```
+
 ### Interface
 - *It has both a console and GUI version.*
 
