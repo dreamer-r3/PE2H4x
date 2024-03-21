@@ -24,7 +24,8 @@ It is a tool that extracts data from the PE headers of an executable, calculates
 
 # Usage
 
-```pythonn
+```python
+For Linux, add shebang -> #!/usr/bin/python3
 pip install requirements.txt
 python3 <program.py>
 ```
