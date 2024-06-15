@@ -96,7 +96,7 @@ def get_mal_info(exe):
         print("Intelligence:",malware_data["intelligence"])
 
 if __name__ == "__main__":
-    print("\nPE2H4x v1.0 Copyright <C> 2024-2025 0x2ezy")
+    print("\nPE2H4x v1.0 Copyright <C> 2024-2025 0xIv4n")
     print("Lasted Version and Source Code: https://github.com/0x2ezy/PE2H4x\n")
     name, exe, imphash, image_base, RVA, EP, sections = get_info_pe()
     get_mal_info(imphash)
